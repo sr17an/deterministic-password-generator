@@ -4,6 +4,10 @@ A **secure, animated web app** for generating **deterministic strong passwords**
 It also checks and displays **password strength** (for both input & generated values).  
 
 ---
+## 🌍 Live Website
+👉 [Click here to open the app](https://sr17an.github.io/deterministic-password-generator/)
+
+---
 
 ## 🌟 Features
 - Deterministic password generation (same input → same password).  
@@ -34,3 +38,9 @@ password-generator/
    - **Strength of generated password**  
 
 ---
+
+
+## 👨‍💻 Author
+Srijan Manna
+Dept. of Computer Science, RKMVM
+
