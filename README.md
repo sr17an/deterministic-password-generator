@@ -15,3 +15,22 @@ It also checks and displays **password strength** (for both input & generated va
 ---
 
 ## 📂 Project Structure
+password-generator/
+│── index.html # Main UI
+│── style.css # Styling & animations
+│── script.js # Frontend logic (hashing + animations)
+---
+
+## ⚡ How It Works
+1. User enters input text + number of repetitions.  
+2. The app:
+   - Hashes the input with **SHA3-384**  
+   - Encodes → Decodes → Re-encodes in **Base64**  
+   - Injects deterministic symbols  
+   - Repeats for given rounds  
+3. Displays:
+   - Final **deterministic password**  
+   - **Strength of input password**  
+   - **Strength of generated password**  
+
+---
