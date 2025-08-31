@@ -39,31 +39,22 @@ password-generator/
 
 ---
 
-## 🚀 Purpose
+## 🚀 Purpose  
 
-Most people:
+Most people:  
+- 🔁 Reuse passwords across websites.  
+- 📅 Choose predictable formats (`username@123`, `birthday@year`).  
+- 🕵️ Get hacked via **dictionary attacks**, **brute force**, or **psychological guesswork**.  
 
-Reuse passwords across websites.
+This project solves that problem:  
+- ✍️ You enter a **simple password** you can easily remember.  
+- 🔒 The tool converts it into a **deterministic strong password** using hashing.  
+- 🔁 You can repeat the **hashing process multiple times** for extra security.  
+- 🧠 You only need to remember:  
+  1. Your original simple password  
+  2. How many iterations of hashing you used  
 
-Choose predictable formats (username@123, birthday@year).
-
-Get hacked via dictionary attacks, brute force, or psychological guesswork.
-
-This project solves that:
-
-You enter a simple password you can remember.
-
-The tool converts it into a deterministic strong password using hashing.
-
-You can repeat the hashing process multiple times for extra security.
-
-You only need to remember:
-
-Your original simple password
-
-How many iterations of hashing you used
-
-👉 For login, just generate your strong password again from your simple password + iteration count, copy it, and paste it into the site.
+👉 For login, just generate your strong password again from your simple password + iteration count, copy it, and paste it into the website or app.  
 
 ---
 
