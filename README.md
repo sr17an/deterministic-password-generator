@@ -39,6 +39,61 @@ password-generator/
 
 ---
 
+## 🚀 Purpose
+
+Most people:
+
+Reuse passwords across websites.
+
+Choose predictable formats (username@123, birthday@year).
+
+Get hacked via dictionary attacks, brute force, or psychological guesswork.
+
+This project solves that:
+
+You enter a simple password you can remember.
+
+The tool converts it into a deterministic strong password using hashing.
+
+You can repeat the hashing process multiple times for extra security.
+
+You only need to remember:
+
+Your original simple password
+
+How many iterations of hashing you used
+
+👉 For login, just generate your strong password again from your simple password + iteration count, copy it, and paste it into the site.
+
+---
+
+## 🔑 Features
+
+✅ Converts weak passwords into cryptographically strong ones.
+
+✅ Supports multiple hashing iterations.
+
+✅ Deterministic → same input + same iterations → always the same output.
+
+✅ No need to store passwords in files or managers.
+
+✅ Works offline (safe from online trackers).
+
+---
+
+## 🛠️ Installation
+
+Clone the repository:
+
+   # git clone https://github.com/sr17an/deterministic-password-generator.git
+   # cd deterministic-password-generator
+
+
+Install dependencies:
+
+   # pip install -r requirements.txt
+
+---
 
 ## 👨‍💻 Author
 Srijan Manna
