@@ -81,20 +81,6 @@ How many iterations of hashing you used
 
 ---
 
-## 🛠️ Installation
-
-Clone the repository:
-
-   git clone https://github.com/sr17an/deterministic-password-generator.git
-   cd deterministic-password-generator
-
-
-Install dependencies:
-
-   pip install -r requirements.txt
-
----
-
 ## 👨‍💻 Author
 Srijan Manna
 Dept. of Computer Science, RKMVM
