@@ -85,13 +85,13 @@ How many iterations of hashing you used
 
 Clone the repository:
 
-   # git clone https://github.com/sr17an/deterministic-password-generator.git
-   # cd deterministic-password-generator
+   git clone https://github.com/sr17an/deterministic-password-generator.git
+   cd deterministic-password-generator
 
 
 Install dependencies:
 
-   # pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ---
 
