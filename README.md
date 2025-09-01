@@ -74,7 +74,7 @@ This project solves that problem:
 ✅ Works offline (safe from online trackers).
 
 ---
-## 📸 Demo Diagram  
+## 📸 Flowchart
 
 ![Password Flow](/Flowchart/FlowChart.png)  
 *(Simple Password → Password Strength Check → Hashing → Strong Password)*  
