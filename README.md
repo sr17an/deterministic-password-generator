@@ -19,10 +19,13 @@ It also checks and displays **password strength** (for both input & generated va
 ---
 
 ## 📂 Project Structure
+```bash
 password-generator/
 │── index.html # Main UI
 │── style.css # Styling & animations
 │── script.js # Frontend logic (hashing + animations)
+```
+
 ---
 
 ## ⚡ How It Works
