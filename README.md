@@ -76,6 +76,17 @@ This project solves that problem:
 ![Password Flow](/Flowchart/FlowChart.png)  
 *(Simple Password → Password Strength Check → Hashing → Strong Password)*  
 
+---
+
+## 📷 Screenshots / Examples
+
+![Demo_01](/Screenshot/Demo_1.png) 
+
+![Demo_02](/Screenshot/Demo_2.png) 
+
+![Demo_03](/Screenshot/Demo_3.png) 
+
+---
 
 ## 👨‍💻 Author
 Srijan Manna
